@@ -921,7 +921,13 @@ var doEvents = () => new Promise((res => {
     res();
   }));
   pump();
-})), compare = Intl && Intl.Collator ? (new Intl.Collator).compare : (x, y) => `${null != x ? x : ""}`.localeCompare(`${null != y ? y : ""}`);
+}));
+
+function compare(x, y) {
+  return `${x || ""}`.localeCompare(y, void 0, {
+    numeric: true
+  });
+}
 
 function getTagName(tagName, subtreePrefix, tagInfo2, invert) {
   if (null == tagInfo2) return tagName;
@@ -981,8 +987,8 @@ function selectCompareMethodTags(settings, tagInfo2) {
    default:
     console.warn("Compare method (tags) corrupted");
     return (a, b) => {
-      const isASubTree = "" == a[V2FI_IDX_TAGDISP][0], isBSubTree = "" == b[V2FI_IDX_TAGDISP][0], aName = a[V2FI_IDX_TAGNAME], bName = b[V2FI_IDX_TAGNAME], aPrefix = isASubTree ? subTreeChar[invert] : "", bPrefix = isBSubTree ? subTreeChar[invert] : "";
-      return compare(aPrefix + aName, bPrefix + bName) * invert;
+      const isASubTree = "" == a[V2FI_IDX_TAGDISP][0], isBSubTree = "" == b[V2FI_IDX_TAGDISP][0], aName = a[V2FI_IDX_TAGNAME], bName = b[V2FI_IDX_TAGNAME];
+      return compare((isASubTree ? subTreeChar[invert] : "") + aName, (isBSubTree ? subTreeChar[invert] : "") + bName) * invert;
     };
   }
 }
