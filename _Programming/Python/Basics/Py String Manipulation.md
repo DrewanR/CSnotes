@@ -18,4 +18,4 @@ s.replace("old", "new") # Replaces the old with the new
 ```
 https://docs.python.org/3/library/stdtypes.html#string-methods contains a longer list.
 
-Note: the `in` keyword exists.
+Note: the `in` keyword exists. 
