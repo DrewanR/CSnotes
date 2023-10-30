@@ -1,13 +1,15 @@
+## Drew.an Computer Science Notes
 #Contents 
 # Module Contents Pages
 ```dataview
 table year AS Year, StartDate AS StartDate, tags AS tags
 FROM #Contents 
-SORT file
+WHERE file.name[0] = "_"
+SORT name
 ```
 # Todo
 ```dataview
-table tags AS tags
+table file.folder AS Path
 FROM #ToDo OR #ToNeaten 
 SORT file
 ```

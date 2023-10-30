@@ -6,6 +6,7 @@
       {
         "id": "84aa957ad4e18f03",
         "type": "tabs",
+        "dimension": 56.54069767441861,
         "children": [
           {
             "id": "fe5d03abdddade2d",
@@ -13,9 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Programming/Python/Basics/Py String Manipulation.md",
+                "file": "CONTENTS.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "55fb68088436843f",
+        "type": "tabs",
+        "dimension": 43.45930232558139,
+        "children": [
+          {
+            "id": "b1c4eaeac8a71763",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Logic_handout.pdf"
               }
             }
           }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Programming/Python/Basics/Py String Manipulation.md",
+                "file": "CONTENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Programming/Python/Basics/Py String Manipulation.md",
+                "file": "CONTENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Programming/Python/Basics/Py String Manipulation.md"
+                "file": "CONTENTS.md"
               }
             }
           },
@@ -178,51 +196,51 @@
   },
   "active": "fe5d03abdddade2d",
   "lastOpenFiles": [
+    "CM1101/raw/CM1101 10 10 2023 1110.md",
+    "CONTENTS.md",
+    "CM1101/raw/CM1101 03 10 2023 1000.md",
+    "CM1101/Thinking Computationally.md",
+    "_Programming/Version Control.md",
+    "CM1103 Python Problem Solving/Discrete Maths.md",
+    "CM1103 Python Problem Solving/Discrete Maths/Logic.md",
+    "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Logic_handout.pdf",
+    "CM1103 Python Problem Solving/_CM1103 Overview.md",
+    "CM1103 Python Problem Solving/_CM1103 Problem Solving in Python.md",
+    "CM1301 Software Engineering/_CM1301 Principles, Tools and Techniques for Secure Software Engineering.md",
+    "CM1301 Software Engineering/_CM1301 Overview.md",
+    "CM1301 Software Engineering/RAW/CM1301 30 10 2023 1210.md",
+    "CM1101/Data Representation.md",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf",
+    "CM1101/raw/CM1101 02 10 2023 1010.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots/Pasted image 20231030143451.png",
+    "CM1103 Python Problem Solving/Discrete Maths",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231030121833.png",
+    "CM1101/Team Project/Combat.md",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/CM1202.pdf",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 5",
+    "CM1301 Software Engineering/CM1301 Asset Dump/New folder",
+    "CM1102 Web Applications/_CM1102 Web Applications.md",
+    "CM1102 Web Applications/_CM1102 Schedule.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_what_to_do.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_2_background.pdf",
+    "_Programming/Python/Basics/Py String Manipulation.md",
     "CM1101/Languages.md",
     "Excalidraw/Drawing 2023-10-18 23.37.53.excalidraw.md",
-    "CM1101/CM1101 Asset Dump/03 10 2023 1000/4 - Data representation.pdf",
-    "CM1101/Data Representation.md",
     "Excalidraw/Drawing 2023-10-03 13.38.12.excalidraw.md",
-    "CM1101/raw/CM1101 03 10 2023 1000.md",
     "_Programming/Python/Basics/Py Elementary Datatypes.md",
-    "CM1101/CM1101 Asset Dump/12 10 2023/CM1101_Lab_Exercise5.pdf",
-    "CM1101/Team Project/Combat planning.md",
     "CM1101/Team Project/Drawing 2023-10-17 09.21.28.excalidraw.md",
     "_Programming/Python/Basics/Py Functions.md",
-    "CM1101/Team Project/Scribbles from meeting 16 10 2023.md",
-    "CM1101/Team Project",
-    "_Programming/Version control/Git.md",
-    "_Programming/Version Control.md",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231012145621.png",
-    "CM1101/CM1101 Asset Dump/05 10 2023/04_lists_dictionaries_functions_modules.pdf",
-    "CM1101/CM1101 Asset Dump/12 10 2023",
-    "_Programming/Version control",
-    "_Programming/Python/Basics/Py Compound Datatypes.md",
-    "_Programming/Python/Specifics/Py Testing.md",
-    "_Programming/Python/Basics/Py String Manipulation.md",
-    "CONTENTS.md",
-    "_Programming/Python.md",
-    "_Programming/Python/Basics/Py Iteration.md",
-    "_Programming/Python/Specifics",
-    "CM1101/raw/CM1101 10 10 2023 1110.md",
-    "CM1101/_CM1101 schedule.md",
-    "CM1101/raw/CM1101 09 10 2023 1420.md",
-    "CM1101/raw/CM1101 05 10 2023 1110.md",
-    "CM1101/raw/CM1101 02 10 2023 1010.md",
-    "CM1101/raw/CM1101 03 10 2023 1000 Drawing.excalidraw.md",
-    "_Programming/Concepts/Errors.md",
-    "_Programming/Python/Basics/Py Branching.md",
-    "CM1101/CM1101 Asset Dump/05 10 2023/03_branching_iteration.pdf",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231005120954.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231005113801.png",
-    "_Programming/Python/Basics",
-    "CM1101/CM1101 Asset Dump/05 10 2023/02_values_expressions_variables_logic.pdf",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004150032.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145925.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145810.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145625.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145052.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004142211.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004141759.png"
+    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145052.png"
   ]
 }
