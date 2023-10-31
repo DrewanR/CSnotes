@@ -7,7 +7,7 @@ StartDate: 2023-10-30
 EndDate: 
 Semester: Autumn
 ---
-[[_CM1103 Overview|Schedule]]
+[[_CM1103 Overview|Overview]]
 # [[Discrete Maths]]
 [[Logic|Introduction to logic]]
-
+# [[Problem Solving & Algorithms]]

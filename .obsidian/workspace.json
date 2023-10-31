@@ -6,34 +6,14 @@
       {
         "id": "84aa957ad4e18f03",
         "type": "tabs",
-        "dimension": 56.54069767441861,
         "children": [
           {
             "id": "fe5d03abdddade2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONTENTS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "55fb68088436843f",
-        "type": "tabs",
-        "dimension": 43.45930232558139,
-        "children": [
-          {
-            "id": "b1c4eaeac8a71763",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Logic_handout.pdf"
+                "file": "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf"
               }
             }
           }
@@ -111,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTENTS.md",
+                "file": "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTENTS.md",
+                "file": "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTENTS.md"
+                "file": "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf"
               }
             }
           },
@@ -196,17 +176,34 @@
   },
   "active": "fe5d03abdddade2d",
   "lastOpenFiles": [
-    "CM1101/raw/CM1101 10 10 2023 1110.md",
-    "CONTENTS.md",
-    "CM1101/raw/CM1101 03 10 2023 1000.md",
-    "CM1101/Thinking Computationally.md",
-    "_Programming/Version Control.md",
-    "CM1103 Python Problem Solving/Discrete Maths.md",
     "CM1103 Python Problem Solving/Discrete Maths/Logic.md",
     "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/About_CM1103_lecture.pdf",
     "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Logic_handout.pdf",
-    "CM1103 Python Problem Solving/_CM1103 Overview.md",
+    "TODO LIST.md",
+    "CM1102 Web Applications/_CM1102 Web Applications.md",
+    "CM1102 Web Applications/_CM1102 Schedule.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Pasted image 20231031115939.png",
     "CM1103 Python Problem Solving/_CM1103 Problem Solving in Python.md",
+    "CM1103 Python Problem Solving/Discrete Maths.md",
+    "CM1103 Python Problem Solving/Problem Solving & Algorithms.md",
+    "_Programming/Web/HTML.md",
+    "CM1102 Web Applications/RAW/CM1102 31 10 2023 1110.md",
+    "_Programming/Web",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Pasted image 20231031120056.png",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Pasted image 20231031112424.png",
+    "Problem solving/Algorithms.md",
+    "Problem solving",
+    "_Programming/Python/Basics/Py Iteration.md",
+    "CM1103 Python Problem Solving/_CM1103 Overview.md",
+    "_Programming/Version control/Git.md",
+    "_Programming/Python.md",
+    "_Programming/Version Control.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots/Pasted image 20231031092718.png",
+    "CONTENTS.md",
+    "CM1101/raw/CM1101 10 10 2023 1110.md",
+    "CM1101/raw/CM1101 03 10 2023 1000.md",
+    "CM1101/Thinking Computationally.md",
     "CM1301 Software Engineering/_CM1301 Principles, Tools and Techniques for Secure Software Engineering.md",
     "CM1301 Software Engineering/_CM1301 Overview.md",
     "CM1301 Software Engineering/RAW/CM1301 30 10 2023 1210.md",
@@ -219,28 +216,10 @@
     "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5",
     "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots",
     "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231030121833.png",
-    "CM1101/Team Project/Combat.md",
     "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/CM1202.pdf",
-    "CM1301 Software Engineering/CM1301 Asset Dump/Week 5",
-    "CM1301 Software Engineering/CM1301 Asset Dump/New folder",
-    "CM1102 Web Applications/_CM1102 Web Applications.md",
-    "CM1102 Web Applications/_CM1102 Schedule.md",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_what_to_do.md",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_2_background.pdf",
-    "_Programming/Python/Basics/Py String Manipulation.md",
-    "CM1101/Languages.md",
-    "Excalidraw/Drawing 2023-10-18 23.37.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 13.38.12.excalidraw.md",
-    "_Programming/Python/Basics/Py Elementary Datatypes.md",
-    "CM1101/Team Project/Drawing 2023-10-17 09.21.28.excalidraw.md",
-    "_Programming/Python/Basics/Py Functions.md",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231012145621.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231005120954.png",
     "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231005113801.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004150032.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145925.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145810.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145625.png",
-    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004145052.png"
+    "CM1101/CM1101 Asset Dump/_screenshots/Pasted image 20231004150032.png"
   ]
 }
