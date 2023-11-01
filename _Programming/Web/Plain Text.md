@@ -1,98 +1,18 @@
-#CM1102 #raw  #ToNeaten 
-## Two Assessments this semester
-Coursework (40%), consisting of two parts
--  creating a small static website using HTML and CSS only
--  creating a small dynamic website using HTML, CSS and a Python CGI script
-Plus 30 minute test (10%)
-
-Other 50% is done by another lecturer next semester
-
----
-# How the internet came about
-`1969` The arpanet
-*Created by academics and researchers to make communicating across long distance. This was when computers were massive. Before the only way to send information was to send stuff via mail between the centres.*
-
-*Used phone lines*
-![[CM1102_week05_2_background.pdf#page=4|CM1102_week05_2_background, page 4]]
-``
-`1983` TCP/IP
-*Mostly used for emails so was very basic*
-
-`1990s` FTP
-*File upload and download*
-`1990s` USENET
-*Discussion groups were also formed*
-`1990s` Gopher
-*A texted based information system*
-### The internet in the early 1990s
-- Mainly text based
-- Non-profit
-- For the happy few
-
-`1999` World Wide Web
-*Created by Tim Berners Lee. Created for easier communication at CERN. Hypertext, which allowed for the creation of web pages*
-## Foundations of the internet
-[[Packet Switching]]
-[[TCP-IP]]
-[[Telnet]]
-[[FTP]]
-[[SMTP]]
-[[Hypertext]]
-## Building Blocks of the Web
-[[HTML]]/[[CSS]]
-[[HTTP]]
-[[Web Server]]
-[[Browser]]
-
-### HTML
-```html
-<!DOCTYPE html>
-<html>
-<head>
-	<title> Hello There </title>
-</head>
-<body>
-	<h1>Hello There</h1>
-	<p> Welcome to the <a href="http://www.w3.org"> Web</a>.
-	Some protocols:</p>
-	<ul>
-		<li> HTTP </li>
-		<li> FTP </li>
-		<li> SMTP </li>
-	</ul> 
-</body>
-</html>
-```
-### HTTP
-***HyperText Transfer Protocol***
-A protocol that governs how the browser communicates with the server
-### Web Server
-![[CM1102_week05_2_background.pdf#page=25|CM1102_week05_2_background, page 25]]
-### Browsers and layout engines
-We will be using google chrome for testing stuff, on windows.
-![[CM1102_week05_2_background.pdf#page=26&selection=0,0,0,27|CM1102_week05_2_background, page 26]]
-
----
-Netscape is a really old browser
-## Current Standards
-**[[HTLM 5]]** for specifying the *structure* of a page
-[[CSS]] for specifying the *layout* of a page
-
----
-# Web Text File Format
-## Plain Text File Format
 Each letter has a code.
-Example below using [[ASCII]]
+Example below using [[Pasted image 20231031120056.png|ASCII]]
 ![[Pasted image 20231031115939.png]]
-![[Pasted image 20231031120056.png]]
 ## New line conventions
 Unix and linux: `LF`
 Dos and Windows: `CR+LF`
 Apple Mac (up to OS-9): `CR`
 ![[CM1102_week05_3_textfiles.pdf#page=7|CM1102_week05_3_textfiles, page 7]]
 
-#ToDo 8-Bit from next slide
-#ToDo ISO 8859
+## 8 Bit Encoding
+ASCII uses 7-bit codes (128 Characters), because of this ASCII only does English characters.
+To fix this, the ISO 8859 standard was invented.
+
+**The Concept:**
+Put a language specific encoding atop ASCII to use the full 8 bits, doubling the available characters to 256. Values 0-127 were standard ASCII, and 128-256 were used for the current non-English alphabet. View [[CM1102_week05_3_textfiles.pdf#page=10|Diagram]].
 ## Roundup ISO 8859
 | Advantages                                                               | Disadvantages                                                                          |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -152,16 +72,3 @@ HTML uses markup tags to indicate structure or special formatting. <i>This text 
 HTML uses markup tags to indicate structure or special formatting. <em>This text is to be emphasized</em> whereas <strong>this text is to be strongly emphasized.</strong>
 ```
 HTML uses markup tags to indicate structure or special formatting. <em>This text is to be emphasized</em> whereas <strong>this text is to be strongly emphasized.</strong>
-
----
-## Key concepts of HTML
-### Tags:
-`<html>, </html>, <title>, </title>, <br>, …`
-### Attributes/values
-`<meta charset=”utf-8”>`
-### Elements
-`<title>An Example Page</title>`
-### Nested Elements
-`<body><p>Hello World!</p></body>`
-### Empty Elements
-`<br/> <meta charset=”utf-8”/>`

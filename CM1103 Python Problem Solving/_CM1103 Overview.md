@@ -29,4 +29,4 @@ Two assessments
 | ---------------- | --------------------- | --------------------------- |
 | Monday 30/10/23  | [[Logic_handout.pdf]] | [[CM1103D 30 10 2023 1410]] |
 | Tuesday 31/10/23 | [[About_CM1103_lecture.pdf]] | This      |
-|                  |                       |                             |
+| Wednesday 01/11/23   | N/S                      | [[CM1103D 30 10 2023 1410]]                            |

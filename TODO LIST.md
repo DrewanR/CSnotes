@@ -13,6 +13,6 @@ SORT file
 	- [ ] Chapter 4
 	- [ ] Chapter 5
 - [ ] Finish assessed exercises
-- [ ] Neaten notes
+- [x] Neaten notes
 ## CM1103
 

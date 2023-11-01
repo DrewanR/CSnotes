@@ -8,3 +8,7 @@ EndDate:
 Semester: Double
 ---
 [[_CM1102 Schedule|Schedule]]
+# External Notes
+[[Web]]
+[[Plain Text]]
+[[HTML]]
