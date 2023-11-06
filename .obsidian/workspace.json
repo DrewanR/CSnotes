@@ -9,12 +9,12 @@
         "dimension": 60.82848837209303,
         "children": [
           {
-            "id": "fe5d03abdddade2d",
+            "id": "305ecb340e59f124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,12 +28,12 @@
         "dimension": 39.17151162790697,
         "children": [
           {
-            "id": "305ecb340e59f124",
+            "id": "4818d86f33570cc8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_4_HTML.pdf"
+                "file": "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 6/Set_handout.pdf"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md"
               }
             }
           },
@@ -194,53 +194,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe5d03abdddade2d",
+  "active": "305ecb340e59f124",
   "lastOpenFiles": [
+    "_General Asset Dump/Pasted image 20231102142205.png",
+    "_General Asset Dump/Pasted image 20231102113120.png",
+    "_General Asset Dump",
+    "New folder",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots/Pasted image 20231106144159.png",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 6/Set_handout.pdf",
+    "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots/Pasted image 20231106143941.png",
+    "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
     "TODO LIST.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Lecture_Easter.pdf",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 6",
+    "CM1102 Web Applications/RAW/CM1102 Week 6.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/CM1102_week06_2_CSS.pdf",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/CM1102_week06_1_CSS.pdf",
+    "_Programming/Web/CSS",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/CM1102_week06_what_to_do.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 6",
+    "CM1103 Python Problem Solving/RAW/CM1103P 02 11 2023 1406.md",
+    "CM1103 Python Problem Solving/Discrete Maths.md",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105145800.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105143217.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105142944.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105142912.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105142720.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/_Screenshots/Pasted image 20231105142119.png",
+    "_Programming/Python.md",
+    "_Programming/Python/Basics/Py Compound Datatypes.md",
+    "_Programming/Python/Basics/Py Elementary Datatypes.md",
+    "_Programming/Python/Basics/Py Iteration.md",
+    "_Programming/Python/Basics/Py Functions.md",
+    "_Programming/Python/Basics/Py Branching.md",
+    "_Programming/Python/Basics/Py String Manipulation.md",
+    "_Programming/Python/Specifics/Py Testing.md",
+    "_Programming/Concepts/Functions.md",
+    "Pasted image 20231102142205.png",
+    "CM1103 Python Problem Solving/Discrete Maths/Logic.md",
+    "Excalidraw/Drawing 2023-11-02 11.35.38.excalidraw.md",
+    "_Programming/Web/HTML.md",
+    "README.md",
+    "CM1301 Software Engineering/Requirements.md",
     "CM1102 Web Applications/RAW/CM1102 Week 5.md",
     "_Programming/Web/HTML/_Using HTML.md",
     "_Programming/Web/HTML/Tables.md",
-    "_Programming/Web/HTML/Images.md",
-    "_Programming/Web/HTML/Lists.md",
-    "_Programming/Web/HTML/Links.md",
-    "_Programming/Web/HTML/Comments.md",
-    "_Programming/Web/HTML/Empty Elements.md",
-    "_Programming/Web/HTML/Block Elements.md",
-    "_Programming/Web/HTML/Inline Elements.md",
-    "_Programming/Web/HTML",
-    "_Programming/Web.md",
-    "_Programming/Web/Plain Text.md",
-    "_Programming/Web/CSS.md",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101120129.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101114915.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101114902.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101114825.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101113524.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231101113450.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231031120056.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231031115939.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots/Pasted image 20231031112424.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/Screenshots",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 5/CM1102_week05_4_HTML.pdf",
-    "Pasted image 20231101120129.png",
-    "_Programming/Web/HTML.md",
-    "CM1301 Software Engineering/CM1301 Asset Dump/Week 5/Intro.pdf",
-    "CM1103 Python Problem Solving/Discrete Maths/Logic.md",
-    "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/About_CM1103_lecture.pdf",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 5/Logic_handout.pdf",
-    "CM1102 Web Applications/_CM1102 Web Applications.md",
-    "CM1102 Web Applications/_CM1102 Schedule.md",
-    "CM1103 Python Problem Solving/_CM1103 Problem Solving in Python.md",
-    "CM1103 Python Problem Solving/Discrete Maths.md",
-    "CM1103 Python Problem Solving/Problem Solving & Algorithms.md",
-    "_Programming/Web",
-    "Problem solving/Algorithms.md",
-    "Problem solving",
-    "_Programming/Python/Basics/Py Iteration.md",
-    "CM1103 Python Problem Solving/_CM1103 Overview.md",
-    "_Programming/Version control/Git.md",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/_Screenshots",
-    "CM1103 Python Problem Solving/Discrete Maths"
+    "_Programming/Web/HTML/Images.md"
   ]
 }

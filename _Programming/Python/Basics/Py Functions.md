@@ -17,6 +17,8 @@ View [[Py Functions#Valuing|below]] for chaos
 NOTE: Variables defined within a function are local functions.
 	when referencing a name of something the local environment is checked first. Followed by the enclosing environment. Followed by the global environment.
 	To avoid confusion, GIVE SENSIBLE NAMES
+
+Functions in python can return multiple things. `return a, b` through tuples 
 # Defining A Function
 Functions have the same rules as variables
 ### Syntax
@@ -119,4 +121,3 @@ d_sqr = diff(sqr)
 d_sqr(4)
 ```
 
-# Factcheck: a function only runs when it has brackets on the end.

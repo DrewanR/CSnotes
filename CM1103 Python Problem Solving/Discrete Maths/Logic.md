@@ -36,29 +36,70 @@ p = False, q = True
 p Ʌ q = False
 p V q = True
 ```
----
-#### Example
-`NOTE:` Truth table notes have been omitted as I already know them
-Truth tables allow us to add more operands
-Must include all the possible combinations
+## Exclusive Or / XOR `⨁`
+Let 𝑝 and 𝑞 be propositions. The exclusive or of 𝑝 and 𝑞, denoted 𝑝 ⨁ 𝑞, is the proposition that is true if exactly one of 𝑝 and 𝑞 are true, and false otherwise.
 
-| p   | q   | r   | p Ʌ q | ¬r  | (pɅq)V¬r    |
-| --- | --- | --- |:-----:|:---:|:---:|
-| 0   | 0   | 0   |   0   |  1  | 1    |
-| 0   | 0   | 1   |   0   |  0  | 0    |
-| 0   | 1   | 0   |   0   |  1  | 1    |
-| 0   | 1   | 1   |   0   |  0  | 0    |
-| 1   | 0   | 0   |   0   |  1  | 1    |
-| 1   | 0   | 1   |   0   |  0  | 0    |
-| 1   | 1   | 0   |   1   |  1  | 1    |
-| 1   | 1   | 1   |   1   |  0  | 1    |
+`NOTE:` in English, or can mean inclusive or exclusive or.
+## Implication `⇒`
+Let 𝑝 and 𝑞 be propositions. The implication or conditional statement 𝑝 ⇒ 𝑞, is the proposition “if 𝑝 then 𝑞”. We call 𝑝 the hypothesis, 𝑞 the conclusion. It is false if 𝑝 is true and 𝑞 is false, and true otherwise. It has the truth table:
+
+| p     | q     | p ⇒ q |
+| ----- | ----- | :---: |
+| 0     | 0     | 1     |
+| 0     | 1     | 1     |
+| **1** | **0** | **0** |
+| 1     | 1     | 1     |
+
+Think of it as a promise, where it is false is if the promise is not upheld. Say, `p` doing work, and `q` is getting money. If you do work you must get paid, however, you might still get money without doing work, but you can also get no money. 
+
+| Example                                      |       |      |
+| -------------------------------------------- | ----- | ---- |
+| If 4 × 4 = 16, then −1 × −1 = 1.             | 1 ⇒ 1 | True |
+| If 2 + 2 = 4, then all dogs are black.       | 1 ⇒ 0 | False |
+| If 2 + 2 = 5, then all dogs are black.       | 0 ⇒ 0 | True |
+| If it snows today, then 2 is a prime number. | 0 ⇒ 1 | True |
+### Contrapositive
+The *contrapositive* of the implication `𝑝 ⇒ 𝑞` is `¬𝑞 ⇒ ¬𝑝.`
+e.g.
+*you wont get money if you haven't work*
+Has the same truth table, which means they are **logically equivalent**
+## Bi-condition `<=>`[^1]
+Let 𝑝 and 𝑞 be propositions. The bi-conditional of 𝑝 and 𝑞 is the proposition “𝑝 if, and only if, 𝑞” and is denoted 𝑝֞  𝑞. It is true if both 𝑝 and 𝑞 have the same truth values and is false if 𝑝 and 𝑞 have opposite truth values.
+*Equivalent of `¬(p⨁q)`*
+![[Pasted image 20231102113120.png]]
+[^1]: Shut up its a hard symbol to find
 
 ---
-## Logic in python
+# Tautology
+#Definition A *tautology* is a compound proposition that is always true.
+# Contradiction
+#Definition A *contradiction* is a compound proposition that is always false.
+# Logical Equivalence `≡`
+**NOT A LOGICAL OPERATOR**
+Compound propositions 𝑝 and 𝑞 are logically equivalent if, and only if, 𝑝 and 𝑞 have the same truth table. The logical equivalence of 𝑝 and 𝑞 is denoted by 𝑝 ≡ 𝑞.
+*Can be proved using truth tables*
+## De Morgan's laws
+ ¬(𝑝 V 𝑞) ≡ ¬𝑝 Ʌ ¬𝑞
+ ¬(𝑝 Ʌ 𝑞) ≡ ¬𝑝 V ¬𝑞
+## More logical equivalences
+| Commutative | 𝑝 Ʌ 𝑞 ≡ 𝑞 Ʌ 𝑝             | 𝑝 V 𝑞 ≡ 𝑞 V 𝑝             |
+| ----------- | ------------------------- | ------------------------- |
+| Associative | (𝑝 Ʌ 𝑞) Ʌ 𝑟 ≡ 𝑝 Ʌ (𝑞 Ʌ 𝑟) | (𝑝 V 𝑞) V 𝑟 ≡ 𝑝 V (𝑞 V 𝑟) |
+| Distributive | 𝑝 V (𝑞 Ʌ 𝑟) ≡ (𝑝 V 𝑞) Ʌ (𝑝 V 𝑟) | 𝑝 Ʌ (𝑞 V 𝑟) ≡ (𝑝 Ʌ 𝑞) V (𝑝 Ʌ 𝑟) |
+| Identity | 𝑝 Ʌ T ≡ 𝑝 | 𝑝 V F ≡ 𝑝 |
+| Negation | 𝑝 V ¬𝑝 ≡ T | 𝑝 Ʌ ¬𝑝 ≡ F |
+| Idempotent | 𝑝 Ʌ 𝑝 ≡ 𝑝 | 𝑝 V 𝑝 ≡ 𝑝 |
+| De Morgan | ¬(𝑝 V 𝑞) ≡ ¬𝑝 Ʌ ¬𝑞 | ¬(𝑝 Ʌ 𝑞) ≡ ¬𝑝 V ¬𝑞 |
+| Double negation | ¬(¬𝑝) ≡ 𝑝 | |
+
+---
+# Logic in python
+
 ```Python
-¬ = not
-Ʌ = and
-V = or
+  ¬ y =   not y 
+x Ʌ y = x and y
+x V y = x or  y
+x ⨁ y = x ^  y # More of a hack, this works because bool is a derivitive of int
 ```
 ## Short Circuit Evaluation
 *Present in [[Python]], amongst lots of other languages*
@@ -68,3 +109,5 @@ When a Boolean operation is evaluated, the second argument is only executed or e
 **OR** *If the first argument is true, it wont evaluate the second argument*
 
 Because of this, it makes sense to put the simplest arguments first and more complex ones afterwards.
+
+---

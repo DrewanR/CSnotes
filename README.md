@@ -1,7 +1,7 @@
 # CSnotes
 Github backup of my computer science notes.
-The notes here will not be up to date, if you wish for a more up to date version let me know.
-Please don't rely on these, as I made these for myself and am only sharing them if people wanted to compare.
+The notes here willl not be up to date, if you wish for a more up to date version let me know.
+Please don''t rely on these, as I made these for myself and am only sharing them if people wanted to compare.
 
 ## Viewing these notes
 The notes here are created in a program called [obsidian](https://obsidian.md/), a free [markdown](https://www.markdownguide.org/) editor (this greately undersells it). You can view the files in near enough anything, many free markdown editors exist, though obisidian has different link syntax to most. I would just use obsidian though as it is free.

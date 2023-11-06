@@ -30,4 +30,7 @@ first_officer[1:3] # "po"
 ```
 **INDEXING STARTS AT 0**
 # Variables in python
-Python assigns a name to a value, one does not need to worry about where or how its stored. Python style guide dictates that words in variables are separated by an `_` e.g.: `stupid_system` 
+Python assigns a name to a value, one does not need to worry about where or how its stored. Python style guide dictates that words in variables are separated by an `_` e.g.: `stupid_system`
+
+# Note:
+Floats can result in unreliability when comparing to decimal, i.e. 0.1+0.1+0.1 != 0.3

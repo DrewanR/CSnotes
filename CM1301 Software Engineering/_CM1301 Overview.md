@@ -30,6 +30,7 @@
 # Scedule
 ## Week 5
 
-| Day    | Slides/Sheets | Notes/Work                 |
-| ------ | ------------- | -------------------------- |
+| Day             | Slides/Sheets | Notes/Work                 |
+| --------------- | ------------- | -------------------------- |
 | Monday 30/10/23 | [[Intro.pdf]] | [[CM1301 30 10 2023 1210]] |
+| Sunday 05/11/23 | [[Week5-Face to Face Session.pdf]]              | [[Requirements]]                           |

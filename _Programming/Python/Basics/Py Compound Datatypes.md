@@ -6,6 +6,19 @@ tags:
 aliases: []
 Language: "[[Python]]"
 ---
+# Tuples
+Tuples are:
+#### Ordered
+When we say that tuples are ordered, it means that the items have a defined order, and that order will not change.
+#### Unchangeable
+Tuples are unchangeable, meaning that we cannot change, add or remove items after the tuple has been created.
+#### Allow Duplicates
+Since tuples are indexed, they can have items with the same value
+
+```python
+thistuple = ("apple", "banana", "cherry")  
+print(thistuple)
+```
 # Lists
 Indexing starts at 0.
 The elements do not need to be of consistent types.
