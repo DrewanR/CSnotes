@@ -23,6 +23,7 @@ while x < 10:
 	print(a)
 ```
 # For loop
+***Definite iteration:*** use when you know beforehand how much you are looping through.
 Loop for every value within a [[Py Iteration#Iterable|Iterable]]
 ### Syntax
 ```PYTHON
