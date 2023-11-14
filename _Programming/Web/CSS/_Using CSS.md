@@ -26,3 +26,5 @@ consists of: *a property and a value*
 ![[Where to put the CSS#Where to put the CSS]]
 # [[Selectors]]
 # [[Properties]]
+
+![[Where to put the CSS#Multiple style sheets]]

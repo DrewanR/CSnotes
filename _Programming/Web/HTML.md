@@ -1,3 +1,7 @@
+---
+aliases:
+  - HTML5
+---
 ```html
 <!DOCTYPE html>
 <html>

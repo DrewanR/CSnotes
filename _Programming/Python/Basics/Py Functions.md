@@ -10,7 +10,8 @@ Language: "[[Python]]"
 A function is a named block of code.
 A function should do one, thing, and do it well.
 A function should be stateless, and immutable.
-A function should be self contains and not leak out abstraction
+A function should be self contains and not leak out abstraction.
+Make functions consistent: make them always return the same data type.
 ### In python, functions are values.
 View [[Py Functions#Valuing|below]] for chaos
 

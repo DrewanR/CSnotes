@@ -28,3 +28,29 @@ mystylesheet.css is the name of the external file
 -  `type` specifies the MIME (Multipurpose Internet Mail Extensions) / IMT (Internet Media Type) of this file
 -  `text/css` specifies “cascading style sheets” text
 -  `href` specifies where to find the file
+
+---
+# Multiple style sheets
+is possible to specify multiple colour sheets:
+```html
+<head>
+	<title>Stylesheets</title>
+	<style>
+		@import url(“http://www.abc.com/deptstyles.css”)
+		@import url(“mystyles.css”)
+	</style>
+</head>
+```
+## *Cascading* style sheets
+```
+– mainstyles.css – the company's stylesheet
+– deptstyles.css – the department's stylesheet
+– mystyles.css   – the user's stylesheet
+```
+In the above example, when there are conflicting declarations, the user's style declarations (in `mystyles.css`) with override the previously declared two. This can result in the document being a mix of the 3 style sheets.
+
+#### Other priorities
+Highest
+1. Inline styles (using the `style="..."` attribute in the html body)
+2. Internal style sheets (in the `<style>` element)
+3. External style sheets (note: later declarations override previous ones)

@@ -1,6 +1,7 @@
 **Current standards we use:**
 **[[HTML|HTML 5]]** *for specifying the **structure** of a page*
 **[[CSS|CSS 3]]** *for specifying the **layout** of a page*
+[[The fun stuff]] *Contains stuff that uses a combination of both*
 
 Both format [[Plain Text]]
 # HTML
