@@ -1,3 +1,7 @@
+# Week 8 (4th week)
+![[CM1102_week08_what_to_do]]
+## Resources
+[[CM1102_week08_1_forms_CGI.pdf]]
 # Week 6 (2nd week)
 ![[CM1102_week06_what_to_do]]
 ## Resources
