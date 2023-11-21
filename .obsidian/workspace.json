@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Programming/Web/CSS/Selectors.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Programming/Web/CSS/Selectors.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Programming/Web/CSS/Selectors.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Programming/Web/CSS/Selectors.md"
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md"
               }
             }
           },
@@ -178,8 +178,17 @@
   },
   "active": "10ba79e23d3d7d5e",
   "lastOpenFiles": [
-    "_Programming/Web/CSS/_Using CSS.md",
+    "CM1103 Python Problem Solving/RAW/CM1103D Week 8.md",
+    "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
+    "CM1103 Python Problem Solving/Pasted image 20231109114824.png",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 8/Counting_handout.pdf",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 7/Lecture_Recursion.pdf",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 8",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/New folder",
     "_Programming/Web/CSS.md",
+    "CONTENTS.md",
+    "_Programming/Web/CSS/Selectors.md",
+    "_Programming/Web/CSS/_Using CSS.md",
     "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
     "CM1102 Web Applications/RAW/CM1102 Week 8.md",
     "Pasted image 20231120133241.png",
@@ -197,9 +206,7 @@
     "CM1103 Python Problem Solving/RAW/Drawing 2023-11-06 14.46.40.excalidraw.md",
     "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
     "CM1102 Web Applications/_CM1102 Schedule.md",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 7/Lecture_Recursion.pdf",
     "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 7",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/New folder",
     "CM1102 Web Applications/_CM1102 Web Applications.md",
     "CM1102 Web Applications/Autumn semester CW and Test.md",
     "_Programming/Web/HTML.md",
@@ -209,20 +216,13 @@
     "CM1103 Python Problem Solving/_CM1103 Overview.md",
     "_Programming/Python/Specifics/Py Testing.md",
     "_Programming/Python/Modules/Py Datetime.md",
-    "_Programming/Python/Basics/Py Branching.md",
     "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231114112139.png",
     "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231114110421.png",
-    "_Programming/Web/The fun stuff/Columns.md",
-    "_Programming/Web/The fun stuff/Layers.md",
-    "_Programming/Web/The fun stuff/Positioning.md",
     "_Programming/Web/The fun stuff",
     "Pasted image 20231114112139.png",
     "Pasted image 20231114110421.png",
     "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Screenshot_20231113_150540.png",
     "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231109121618.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231113151018.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 7/Coursework and exercise.pdf",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 7",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 6/Set_handout-1.pdf"
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 7/Coursework and exercise.pdf"
   ]
 }
