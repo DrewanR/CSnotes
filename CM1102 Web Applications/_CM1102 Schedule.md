@@ -1,3 +1,8 @@
+# Week 9 (5th week)
+![[CM1102_week 9_what_to_do]]
+## Resources
+[[linux.pdf]]
+[[CM1102_week10_UNIX.pdf]]
 # Week 8 (4th week)
 ![[CM1102_week08_what_to_do]]
 ## Resources

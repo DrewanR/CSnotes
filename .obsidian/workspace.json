@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10ba79e23d3d7d5e",
+            "id": "4e3f908197cca114",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md"
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md"
               }
             }
           },
@@ -170,59 +170,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10ba79e23d3d7d5e",
+  "active": "cb019756316487a0",
   "lastOpenFiles": [
-    "CM1103 Python Problem Solving/RAW/CM1103D Week 8.md",
+    "_Algorithms",
+    "_Programming/Python/Basics/Py Iteration.md",
+    "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md",
+    "CM1103 Python Problem Solving/RAW/Untitled.md",
+    "CM1301 Software Engineering/Qualitive and Quantitive.md",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 9/Week 9 - QuantitativeUserStudies.pdf",
+    "Pasted image 20231130132824.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 9/Week 9-Qualitative User Studies.pdf",
+    "__General Asset Dump/Pasted image 20231130131352.png",
+    "__General Asset Dump/Pasted image 20231127124348.png",
+    "__General Asset Dump/Pasted image 20231127125624.png",
+    "CM1301 Software Engineering/User stories and Scenarios.md",
+    "CM1301 Software Engineering/RAW/Week 8.md",
+    "CM1301 Software Engineering/RAW/Week 6.md",
+    "__General Asset Dump/Pasted image 20231130131338.png",
+    "Excalidraw/Drawing 2023-11-30 11.14.16.excalidraw.md",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Pasted image 20231108091547.png",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Week 9",
+    "CM1301 Software Engineering/CM1301 Asset Dump/Untitled.md",
+    "CM1103 Python Problem Solving/RAW/CM1103D Week 9.md",
+    "Excalidraw/Drawing 2023-11-23 14.52.05.excalidraw.md",
     "CM1103 Python Problem Solving/RAW/CM1103P Week 8.md",
-    "CM1103 Python Problem Solving/Pasted image 20231109114824.png",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 8/Counting_handout.pdf",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 7/Lecture_Recursion.pdf",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 8",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/New folder",
-    "_Programming/Web/CSS.md",
-    "CONTENTS.md",
-    "_Programming/Web/CSS/Selectors.md",
-    "_Programming/Web/CSS/_Using CSS.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 9/CM1102_week 9_what_to_do.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 9/CM1102_week10_UNIX.pdf",
     "CM1103 Python Problem Solving/RAW/CM1103D 06 11 2023 1405.md",
-    "CM1102 Web Applications/RAW/CM1102 Week 8.md",
-    "Pasted image 20231120133241.png",
-    "Pasted image 20231120133225.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 8/Screenshots/Pasted image 20231120130027.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 8/Screenshots",
-    "_Programming/Web/HTML/Forms",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 6/Set_handout.pdf",
-    "CM1103 Python Problem Solving/_CM1103 Problem Solving in Python.md",
-    "CM1103 Python Problem Solving/Discrete Maths.md",
-    "CM1103 Python Problem Solving/Problem Solving & Algorithms.md",
-    "CM1103 Python Problem Solving/RAW/CM1103P 02 11 2023 1406.md",
-    "CM1103 Python Problem Solving/RAW/CM1103P Week 6.md",
-    "CM1103 Python Problem Solving/RAW/CM1103P Week 7 8.md",
-    "CM1103 Python Problem Solving/RAW/Drawing 2023-11-06 14.46.40.excalidraw.md",
     "CM1103 Python Problem Solving/RAW/CM1103D 30 10 2023 1410.md",
-    "CM1102 Web Applications/_CM1102 Schedule.md",
-    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 7",
-    "CM1102 Web Applications/_CM1102 Web Applications.md",
-    "CM1102 Web Applications/Autumn semester CW and Test.md",
-    "_Programming/Web/HTML.md",
-    "_Programming/Web/Plain Text.md",
-    "_Programming/Web/The fun stuff.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 9/Probability_handout.pdf",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 9/linux.pdf",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 9",
+    "CM1102 Web Applications/RAW/CM1102 Week 9a.md",
+    "__General Asset Dump/Pasted image 20231127125608.png",
+    "__General Asset Dump/Pasted image 20231123114954.png",
+    "__General Asset Dump/Pasted image 20231123113639.png",
+    "__General Asset Dump/Pasted image 20231123113531.png",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 9",
     "_Programming/Web/HTML/_Using HTML.md",
-    "CM1103 Python Problem Solving/_CM1103 Overview.md",
-    "_Programming/Python/Specifics/Py Testing.md",
-    "_Programming/Python/Modules/Py Datetime.md",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231114112139.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231114110421.png",
-    "_Programming/Web/The fun stuff",
-    "Pasted image 20231114112139.png",
-    "Pasted image 20231114110421.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Screenshot_20231113_150540.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 6/Screenshots/Pasted image 20231109121618.png",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 7/Coursework and exercise.pdf"
+    "_Programming/Web/HTML.md",
+    "_Programming/Python/Basics/Py Compound Datatypes.md",
+    "Excalidraw/Drawing 2023-11-23 14.52.00.excalidraw.md",
+    "Recursion Example.py",
+    "CM1103 Python Problem Solving/RAW/CM1103D Week 8.md",
+    "CM1103 Python Problem Solving/CM1103 Asset Dump/Week 8/Counting_handout.pdf",
+    "_Programming/Web/HTML/Tables.md",
+    "_Programming/Web/Forms and CGI/_Using CGI.md",
+    "_Programming/Web/Forms and CGI/_Using Forms.md",
+    "CM1301 Software Engineering/Requirements.md"
   ]
 }

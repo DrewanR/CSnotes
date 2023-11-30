@@ -3,10 +3,16 @@
   "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-right",
   "obsidian-prism-theme@@pt-font-alt-g": true,
   "obsidian-prism-theme@@pt-font-alt-a": true,
-  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-cherry-dt",
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-pine-dt",
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-two-tone-and-border-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
-  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-purple-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-cyan-dt",
   "obsidian-prism-theme@@custom-vault-banner-horizontal-align": "pt-custom-vault-banner-justify-content-left",
-  "obsidian-prism-theme@@pt-custom-vault-banner": true
+  "obsidian-prism-theme@@pt-custom-vault-banner": true,
+  "obsidian-prism-theme@@left-sidebar-tab-label-alignment": "pt-tab-label-left-sidebar-left",
+  "obsidian-prism-theme@@right-sidebar-tab-label-alignment": "pt-tab-label-right-sidebar-left",
+  "obsidian-prism-theme@@nav-header-left-sidebar-alignment": "pt-nav-header-left-sidebar-align-center",
+  "obsidian-prism-theme@@nav-header-left-sidebar-position": "pt-nav-header-left-sidebar-position-bottom",
+  "obsidian-prism-theme@@tab-header-alignment": "pt-tab-header-left",
+  "obsidian-prism-theme@@pt-icons-accent": false
 }

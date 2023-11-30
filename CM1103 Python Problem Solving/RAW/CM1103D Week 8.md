@@ -23,3 +23,23 @@ $$n!=n(n-1)(n-2)...*2$$
 An r-permutation of a set of n elements is an ordered selection of r elements taken from the set without repetition.
 $$P(n,r)=\frac{n!}{(n-r)!}$$
 view `itertools` in python.
+
+# r-combinations
+An r-combination of a set of size n is a subset of r
+
+$$C(n,r) = \frac{n!}{r!(n-r)!}$$
+or just use a calculator
+
+> **R-Permutations** $P(n,r)$
+> **R-Combinations** $C(n,r)$
+
+> Split problems into easier cases then figure out the easier cases from there
+
+### Combinational equivalence
+Some counting problems can be made easier by recognising when there is a one-to-one correspondence to another problem.
+
+# Repetition
+![[Pasted image 20231123113531.png]]
+![[Pasted image 20231123113639.png]]
+# Indistinguishable Objects
+![[Pasted image 20231123114954.png]]

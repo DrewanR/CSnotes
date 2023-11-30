@@ -3,5 +3,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "translucency": false,
-  "cssTheme": "Prism"
+  "cssTheme": "Prism",
+  "textFontFamily": "",
+  "baseFontSize": 16
 }

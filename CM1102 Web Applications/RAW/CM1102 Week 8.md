@@ -24,7 +24,8 @@ Main applications: provide user input for
 ```html
 <body>
 	<form method="POST" action="comments.py">
-		<h2>Tell us what you think</h2> <!-- etc -->
+		<h2>Tell us what you think</h2>
+		<!-- etc -->
 	</form>
 </body>
 ```
@@ -140,3 +141,70 @@ In the general scheme of life, how would you rate us?:
 ## Button
 ![[Pasted image 20231120133241.png]]
 *hi dylan*
+## Additional `<input>` types and attributes
+| Element |
+| ------- |
+| Date    |
+| Email   |
+| URL     |
+| Number  |
+| Range   |
+| Color   |
+| Pattern (regular expression)|
+
+Different browsers may handle each of these differently
+
+| Attribute | use                             |
+| --------- | ------------------------------- |
+| Required  | Results in automated validation |
+| Autocomplete | can be used to specify whether the browser should remember and suggest previously filled in data                                |
+
+---
+# CGI
+*Common Gateway Interface*
+A method of running programs on the server.
+
+![[Pasted image 20231122103900.png]]
+
+## CGI with [[Python]]
+```python
+form = cgi.FieldStorage()         # Gets the form
+num1 = form.getvalue('theNumber') # Returns the string specified by the value
+
+# Python typically uses the print statement to generate a new html page
+```
+#### Example
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<title>square a number</title>
+</head>
+<body>
+	<form action="cgi-bin/NumSquared.py" method="GET">
+		<label for="theNumber">Enter a number to be squared</label>
+		<input type="text" id="theNumber" name="theNumber"/> <br/>
+		<input type="submit" value="submit"/>
+	</form>
+</body>
+</html>
+```
+```python
+#!/usr/bin/python3
+import cgi, cgitb
+form = cgi.FieldStorage()
+num1 = form.getvalue('theNumber')
+squared = float(num1)**2
+print('Content-Type: text/html; charset=utf-8')
+print('')
+print('<!DOCTYPE html>')
+print('<html>')
+print('<head> <title> Python script to output the square of a number </title> </head>')
+print('<body>')
+print('<p>')
+print('The square of %s is %g' % (num1, squared))
+print('</p>')
+print('</body>')
+print('</html>')
+```

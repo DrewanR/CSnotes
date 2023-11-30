@@ -26,6 +26,7 @@ while x < 10:
 ***Definite iteration:*** use when you know beforehand how much you are looping through.
 Loop for every value within a [[Py Iteration#Iterable|Iterable]]
 ### Syntax
+In python we prefer using this syntax
 ```PYTHON
 for x in iterable:
 	# Do something with x as it
@@ -49,5 +50,6 @@ for x in range(4, 12, 2):
 ... in "aString"      # does it for each character in a string
 ... in aList          # Repeats for each index of a list
 ... in dictionary     # Iterated for each key in the dictionary <-->1>
+... in enumerate(a)   # Iterates with tuple (index, element) i, x in enumat...
 ```
 `<-->1>` [[Py Compound Datatypes#Iterable examples|Dictionary Iteration]] you can also iterate with key value pairs
