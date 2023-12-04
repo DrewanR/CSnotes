@@ -1,6 +1,5 @@
 ---
-aliases:
-  - HTML5
+aliases: []
 ---
 ```html
 <!DOCTYPE html>
@@ -21,7 +20,8 @@ aliases:
 </html>
 ```
 
-View [[_Using HTML|using HTML]] for explanations
+View [[__Using HTML|using HTML]] for explanations
+View [[__HTML 5]] for things specific to it
 
 ---
 ### HTTP

@@ -26,9 +26,12 @@ print(linearSearch(a, 7))
 print(linearSearch(a, 0))
 ```
 
-| Complexity | n   |
+| Complexity | O(n)   |
 | ---------- | --- |
 | Worst case scenario | key is in index n     |
 
 When there are multiple copies of the key it will return the first key it comes across. Can potentially add a start index to allow for searching for later editions
 ## Just linear for now ;-;
+
+> *The first law of optimisation is: **Don't**
+> There is a second law of optimisation, however: **Don't... yet.***

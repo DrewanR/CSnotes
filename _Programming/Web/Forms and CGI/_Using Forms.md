@@ -1,6 +1,6 @@
 also view [[_Using CGI]] for what to do on the python side
 
-![[_Using HTML#`<form>` element]]
+![[__Using HTML#`<form>` element]]
 
 ```html
 <body>
