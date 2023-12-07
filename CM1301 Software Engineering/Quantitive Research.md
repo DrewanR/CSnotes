@@ -1,4 +1,3 @@
-[[Week 9-Qualitative User Studies.pdf]]
 [[Week 9 - QuantitativeUserStudies.pdf]]
 ![[Pasted image 20231130131338.png]]
 ![[Pasted image 20231130131352.png]]

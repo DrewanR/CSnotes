@@ -1,4 +1,10 @@
-## Linear Search
+---
+tags:
+  - Algorithm
+  - Searching
+  - CM1103
+algorithmType: Searching
+---
 Go from the start of the list checking each element in turn
 
 > `Prequisits:` None
@@ -9,7 +15,7 @@ def linearSearch(a, key):
 			return i
 	return -1
 
-a = [2,6,7,9,4]
+a = range(1,50)
 
 print(linearSearch(a, 7))
 print(linearSearch(a, 0))

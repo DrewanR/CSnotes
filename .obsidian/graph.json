@@ -11,7 +11,7 @@
       "query": "tag:#Contents  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14731602
       }
     },
     {
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4107602137656431,
+  "scale": 0.2905207036880976,
   "close": false
 }

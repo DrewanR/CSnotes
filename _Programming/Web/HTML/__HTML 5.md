@@ -21,4 +21,5 @@ aliases:
 # Head
 Elements in the `<head>` section include
 `<title>, <base>, <link>, <meta>, <script>, <style>`
-Example of `<meta>: <meta name="keywords" content="desks, chairs, pens" />` Name attribute can have other values such as “author”, “description”, date-last-modified…
+Example of `<meta>: <meta name="keywords" content="desks, chairs, pens" />`
+Name attribute can have other values such as “author”, “description”, date-last-modified…
