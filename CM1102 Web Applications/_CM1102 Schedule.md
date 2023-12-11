@@ -1,3 +1,10 @@
+# Week 11 (7th week)
+![[CM1102_week11_what_to_do]]
+# Week 10 (6th week)
+![[CM1102_week10_what_to_do]]
+## Resources
+[[CM1102_week09_1_UX_accessibility.pdf]]
+[[CM1102_week09_2_HTML5.pdf]]
 # Week 9 (5th week)
 ![[CM1102_week 9_what_to_do]]
 ## Resources

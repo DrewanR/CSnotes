@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM1301 Software Engineering/Sketching and Prototyping.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 10.md",
+                "file": "_Algorithms/Searching/Interpolated Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "right": {
     "id": "115c471b0f9fe47f",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM1301 Software Engineering/Sketching and Prototyping.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM1301 Software Engineering/Sketching and Prototyping.md",
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM1301 Software Engineering/Sketching and Prototyping.md"
+                "file": "CM1103 Python Problem Solving/RAW/CM1103P Week 11.md"
               }
             }
           },
@@ -203,8 +204,27 @@
   },
   "active": "ae2ee50ac1995e38",
   "lastOpenFiles": [
-    "__General Asset Dump/Pasted image 20231204142953.png",
+    "_Algorithms/Searching/Binary Search.md",
+    "_Algorithms/Searching/Interpolated Binary Search.md",
+    "_Algorithms/_Searching Algorithms.md",
+    "_Algorithms/_Sorting Algorithms.md",
+    "Excalidraw/Drawing 2023-12-07 13.35.04.excalidraw.md",
+    "CM1103 Python Problem Solving/RAW/CM1103P Week 11.md",
+    "Pasted image 20231211142810.png",
+    "CM1103 Python Problem Solving/RAW/CM1103P Week 10.md",
+    "Excalidraw/Drawing 2023-12-11 14.13.08.excalidraw.md",
     "CM1301 Software Engineering/Sketching and Prototyping.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 11/CM1102_week11_what_to_do.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 10/CM1102_week10_what_to_do.md",
+    "CM1102 Web Applications/CM1102 Asset Dump/Week 11",
+    "attachments/snaps/1000011810.jpg",
+    "attachments/snaps/1000011799.jpg",
+    "attachments/snaps/1000011807.jpg",
+    "attachments/snaps",
+    "attachments",
+    "CM1103 Python Problem Solving/RAW/CM1103D Week 10.md",
+    "__General Asset Dump/Pasted image 20231204142953.png",
+    "CM1103 Python Problem Solving/Problem Solving & Algorithms.md",
     "__General Asset Dump/Pasted image 20231207132731.png",
     "__General Asset Dump/Pasted image 20231207131450.png",
     "__General Asset Dump/Pasted image 20231207131238.png",
@@ -213,8 +233,6 @@
     "CM1301 Software Engineering/CM1301 Asset Dump/Week 10/Introduction to System Modelling.pdf",
     "CM1301 Software Engineering/CM1301 Asset Dump/Week 10",
     "CM1301 Software Engineering/CM1301 Asset Dump/New folder",
-    "CM1103 Python Problem Solving/Problem Solving & Algorithms.md",
-    "CM1103 Python Problem Solving/RAW/CM1103D Week 10.md",
     "CM1103 Python Problem Solving/RAW/CM1103D Week 8.md",
     "CM1103 Python Problem Solving/Discrete Maths/Logic.md",
     "CM1103 Python Problem Solving/Discrete Maths.md",
@@ -228,25 +246,8 @@
     "CM1102 Web Applications/CM1102 Asset Dump/Week 10/CM1102_week09_1_UX_accessibility.pdf",
     "CM1301 Software Engineering/User stories and Scenarios.md",
     "__General Asset Dump/Pasted image 20231206112809.png",
-    "_Algorithms/_Searching Algorithms.md",
-    "_Algorithms/_Sorting Algorithms.md",
     "_Algorithms/_Algorithms.md",
-    "_Algorithms/Searching/Binary Search.md",
     "_Algorithms/Searching/Linear Search.md",
-    "CONTENTS.md",
-    "CM1103 Python Problem Solving/RAW/CM1103P Week 10.md",
-    "__General Asset Dump/Pasted image 20231204143512.png",
-    "CM1103 Python Problem Solving/RAW/CM1103P Week 9.md",
-    "_Algorithms/Searching",
-    "_Programming/Web/HTML/__HTML 5.md",
-    "_Programming/Web/HTML/Favicons.md",
-    "_Programming/Web/HTML/_Advanced HTML 5.md",
-    "_Programming/Web/HTML/Video & Audio.md",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 10/CM1102_week09_2_HTML5.pdf",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 10",
-    "CM1102 Web Applications/CM1102 Asset Dump/Week 9/CM1102_exercise_week10-1.pdf",
-    "Pasted image 20231130132824.png",
-    "__General Asset Dump/Pasted image 20231130131352.png",
-    "__General Asset Dump/Pasted image 20231127124348.png"
+    "_Algorithms/Searching"
   ]
 }

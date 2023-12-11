@@ -28,3 +28,7 @@ Stories convey meaning, meaning is understanding
 Stories assist in remember facts.
 
 ![[Pasted image 20231207132731.png]]
+
+view latter half of this [[Sketching and Prototyping|Presentation]] for examples and software availiable.
+
+Quick story board. [[Drawing 2023-12-07 13.35.04.excalidraw]]
